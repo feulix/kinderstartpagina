@@ -13,6 +13,7 @@
 ## Programmeren
 * [Code.org](https://code.org)
 * [Scratch](https://scratch.mit.edu)
+* [Machine Learning for Kids](https://machinelearningforkids.co.uk/)
 
 ## Games
 * [Roblox](https://www.roblox.com)
