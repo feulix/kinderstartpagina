@@ -1,5 +1,3 @@
-# Kinderstartpagina
----
 ## Educatief
 * [Squla](https://www.squla.nl/)
 * [Superkrachten Voor Je Hoofd](https://www.mindgymvoorkids.nl/)
