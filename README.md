@@ -36,3 +36,4 @@
 * [Geronimo Stilton](https://geronimostilton.com/)
 * [Geronimo Stilton - De Wakkere Muis](https://dewakkeremuis.nl/)
 * [Sinterklaasjournaal](https://sinterklaasjournaal.nl/)
+* [Dylan Haegens](https://dylanhaegens.nl/)
