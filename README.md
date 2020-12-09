@@ -1,5 +1,8 @@
 # Kinderstartpagina
 
+## Tafels
+* [Tafel games foor 7-11 jaar](https://www.topmarks.co.uk/maths-games/7-11-years/times-tables)
+
 ## Topo
 * [Topomania - multiple choice](https://www.topomania.net/)
 * [Topotrainer - vul het goede antwoord in](https://topografieindeklas.nl/topotrainer/)
