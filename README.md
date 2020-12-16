@@ -1,5 +1,7 @@
 # Kinderstartpagina
 
+* [MOO](https://v2.moo.nl/portal)
+
 ## Tafels
 * [Tafel games voor 7-11 jaar](https://www.topmarks.co.uk/maths-games/7-11-years/times-tables)
 
@@ -9,6 +11,7 @@
 * [Topospelletjes](https://www.spelletjesplein.nl/aardrijskunde-topo-nl/)
 
 ## Educatief
+* [Tommy's Trek Games](https://mathsframe.co.uk/en/resources/category/587)
 * [Squla](https://www.squla.nl/)
 * [Superkrachten Voor Je Hoofd](https://www.mindgymvoorkids.nl/)
 * [Google Maps](https://google.com/maps/)
