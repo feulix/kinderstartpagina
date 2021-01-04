@@ -11,7 +11,6 @@
 * [Topospelletjes](https://www.spelletjesplein.nl/aardrijskunde-topo-nl/)
 
 ## Educatief
-* [Muiswerk woordenboek](https://mowb.muiswerken.nl/)
 * [Tommy's Trek Games](https://mathsframe.co.uk/en/resources/category/587)
 * [Squla](https://www.squla.nl/)
 * [Superkrachten Voor Je Hoofd](https://www.mindgymvoorkids.nl/)
@@ -23,6 +22,7 @@
 * [Albert Heijn - Tech is te gek](https://www.ah.nl/tech-is-te-gek/)
 * [Plastic Bende](https://www.plasticbende.nl/)
 * [WWF](https://wwf.nl)
+* [Muiswerk woordenboek](https://mowb.muiswerken.nl/)
 
 ## Programmeren
 * [Code.org](https://code.org)
