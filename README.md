@@ -3,6 +3,7 @@
 * [MOO](https://v2.moo.nl/portal)
 
 ## Tafels
+* [Arcademics keersommen](https://www.arcademics.com/games?subject=multiplication)
 * [Tafel games voor 7-11 jaar](https://www.topmarks.co.uk/maths-games/7-11-years/times-tables)
 
 ## Topo
@@ -22,6 +23,7 @@
 * [Plastic Bende](https://www.plasticbende.nl/)
 * [WWF](https://wwf.nl)
 * [Muiswerk woordenboek](https://mowb.muiswerken.nl/)
+* [Arcademics](https://www.arcademics.com/)
 * [Tommy's Trek Games](https://mathsframe.co.uk/en/resources/category/587)
 
 ## Programmeren
